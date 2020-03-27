@@ -1,7 +1,7 @@
 {"basic":{
     "app_id": 679455,
     "app_hash": "app_hash",
-    "bot_token": "bot_token"
+    "bot_token": "bot_token",
 
     "owner_id": 483808054,
     "mongo_port": "27017",
@@ -40,8 +40,9 @@
     "skip_catch_up": true,
     "rate_limit": false,
     "block_gbanned_users": true,
-    
+
     "sudo": [483808054],
+    "whitelist": [483808054],
 
     "allow_forwards_commands": false,
     "allow_commands_with_!": false,
