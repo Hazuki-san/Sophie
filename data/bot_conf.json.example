@@ -42,7 +42,7 @@
     "block_gbanned_users": true,
 
     "sudo": [483808054],
-    "whitelist": [483808054],
+    "whitelisted": [483808054],
 
     "allow_forwards_commands": false,
     "allow_commands_with_!": false,
